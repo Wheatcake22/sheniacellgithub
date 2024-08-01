@@ -82,3 +82,10 @@
 [AUTO LOG 3] Fake entry on 2025-07-22T18:36:35+02:00 18068
 [AUTO LOG 4] Fake entry on 2025-07-22T18:36:36+02:00 31815
 [AUTO LOG 5] Fake entry on 2025-07-22T18:36:37+02:00 264
+[AUTO 1] Unique log at ❌ - ID 22716
+[AUTO 2] Unique log at Not - ID 15919
+[AUTO 3] Unique log at enough - ID 14515
+[AUTO 4] Unique log at days - ID 14702
+[AUTO 5] Unique log at in - ID 23870
+[AUTO 6] Unique log at range - ID 8853
+[AUTO LOG 0] Fake entry on 2025-07-22T18:46:58+02:00 24057
